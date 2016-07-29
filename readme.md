@@ -15,7 +15,7 @@ $ npm install --save electron-referer
 ```js
 const {app, BrowserWindow} = require('electron');
 
-require('electron-referer')();
+require('electron-referer')('http://www.pixiv.net/');
 
 let win;
 
