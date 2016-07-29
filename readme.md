@@ -28,7 +28,7 @@ app.on('ready', () => {
 
 ## API
 
-### referer(target, win)
+### referer(target, [win])
 
 #### target
 
