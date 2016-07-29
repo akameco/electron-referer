@@ -1,7 +1,7 @@
 {
   "name": "electron-referer",
   "version": "0.0.0",
-  "description": "My extraordinary module",
+  "description": "Referer control for Electron app",
   "license": "MIT",
   "repository": "akameco/electron-referer",
   "author": {
