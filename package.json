@@ -1,6 +1,6 @@
 {
   "name": "electron-referer",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Referer control for Electron app",
   "license": "MIT",
   "repository": "akameco/electron-referer",
