@@ -13,6 +13,10 @@ function create(win, referer) {
 }
 
 module.exports = (referer, win) => {
+	if (typeof referer !== 'string') {
+		throw new TypeError('Expected a string');
+	}
+
 	if (win) {
 		create(win, referer);
 		return;
