@@ -1,5 +1,7 @@
 # electron-referer [![Build Status](https://travis-ci.org/akameco/electron-referer.svg?branch=master)](https://travis-ci.org/akameco/electron-referer)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/electron-referer.svg)](https://greenkeeper.io/)
+
 > Referer control for Electron app.
 
 
